@@ -70,4 +70,4 @@ If you want to add an entry, follow these steps!
 
 ---
 
-This page is [http://hatespeechdata.com/](http://hatespeechdata.com/).
+This page is [insert domain name].
