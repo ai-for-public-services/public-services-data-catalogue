@@ -1,8 +1,8 @@
 # UK Government Public Services Dataset Catalogue
 
-This page catalogues datasets on UK public services available under a [Open Government Licence](https://en.wikipedia.org/wiki/Open_Government_Licence). They may be useful for analysing trends in use of central government services, linking data, and training models to detect the use of AI technologies. 
+This page catalogues datasets on UK public services available under a [Open Government Licence](https://en.wikipedia.org/wiki/Open_Government_Licence). They may be useful for analysing trends in use of central government services and training models to detect the use of AI technologies in government. 
 
-The list was created by [Vincent Straub](https://www.turing.ac.uk/people/researchers/bertie-vidgen), ..., and maintained by the AI for Public Services team at the Alan Turing Institute.
+The list is maintained by Vincent Straub, John Francis, Youmna Hasham, Saba Esnaashari, and Jonathan Bright, as part of the AI for Public Services team at the Alan Turing Institute.
 
 It provides background information on accessing UK government open data, a list of [datasets](#Datasets-header), as well as instructions on how to contribute in the[instructions for contributing](#Contributing-header).
 
