@@ -84,16 +84,17 @@ Please send contributions via github pull request. You can do this by visiting t
 <a id="finding-data-header"></a>
 ## Finding data on UK government services
 
-### Guides
-* [How to access HM Courts and Tribunals Service (HMCTS) data](https://www.gov.uk/guidance/access-hmcts-data-for-research)
-* [How to access information from a public body through a Freedom of Information Request](https://ico.org.uk/your-data-matters/official-information/)
-* [How to use UK public sector APIs](https://www.api.gov.uk/#uk-public-sector-apis)
-
-### Government organisations
+### General resources
+The following organisations provide newsletters and further information on open data developments in UK government: 
 * [Government Analysis Function](https://analysisfunction.civilservice.gov.uk/)  - The Government Analysis Function is a network for all civil servants working in government analysis.
 * [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) - The GDS builds platforms, products and services that help create a simple, joined-up and personalised experience of government for everyone 
 * [Government Data Quality Hub](https://www.gov.uk/government/organisations/government-data-quality-hub) - The Government Data Quality Hub (DQHub) works to develop and share best practice in data quality.
 * [Data Standards Authority](https://www.gov.uk/government/groups/data-standards-authority#:~:text=deliver%20better%20services-,Get%20in%20touch%20with%20us,%2Doffice.gov.uk.) - The Data Standards Authority (DSA) works to improve how the public sector manages data. The DSA does this by establishing standards to make it easier and more effective to share and use data across government.
+
+### Specific guides
+* [How to access HM Courts and Tribunals Service (HMCTS) data](https://www.gov.uk/guidance/access-hmcts-data-for-research)
+* [How to access information from a public body through a Freedom of Information Request](https://ico.org.uk/your-data-matters/official-information/)
+* [How to use UK public sector APIs](https://www.api.gov.uk/#uk-public-sector-apis)
 
 <a id="contributing-header"></a>
 ## How to Contribute
