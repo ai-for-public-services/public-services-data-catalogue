@@ -4,38 +4,88 @@ This page catalogues data sources and datasets that relate to UK public services
 
 The list is maintained by Vincent Straub, John Francis, Youmna Hasham, Saba Esnaashari, and Jonathan Bright, as part of the AI for Public Services team at the Alan Turing Institute.
 
-It provides background information on accessing UK government open data [data sources](#finding-data-header), a list of [databases](#databases-header), a list of [datasets](#datasets-header), as well as instructions on how to contribute in the [instructions for contributing](#contributing-header).
+It provides background information on understanding the UK government [open data ecosystem](#background-reading-header), a list of [databases](#databases-header), a list of [datasets](#datasets-header), resources for [finding data](#finding-data-header), as well as instructions on how to contribute in the [instructions for contributing](#contributing-header).
 
 <!--  If you use these resources, please cite (and read!) our paper: [Directions in Abusive Language Training Data: Garbage In, Garbage Out](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243300). And if you would like to find other resources for researching online hate, visit The Alan Turing Institute's [Online Hate Research Hub](https://www.turing.ac.uk/research/research-programmes/public-policy/online-hate-research-hub) or read The Alan Turing Institute's [Reading List on Online Hate and Abuse Research](https://docs.google.com/document/d/1WVkVGp29Jt6d-4fBnZ5OWVYuFn_03rzz-KBqPsu6gTM/edit?usp=sharing). -->
 
 Please send contributions via github pull request. You can do this by visiting the [source code] (link to be added) on github and clicking the edit icon (a pencil, above the text, on the right) - more details [below](#Contributing-header). There's a commented-out markdown template at the top of this file. Accompanying [data statements](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00041) preferred for all corpora.
 
-<a id="finding-data-header"></a>
-## How to find data
-#### Name of data source
-* Link to source: [https://github.com/nuhaalbadi/Arabic_hatespeech](https://github.com/nuhaalbadi/Arabic_hatespeech)
-* Link to publication: [https://ieeexplore.ieee.org/document/8508247](https://ieeexplore.ieee.org/document/8508247)
-* Datasets available: 
-* Public services:  
-* Reference: 
+<a id="background-reading-header"></a>
+## Understanding the UK government open data ecosystem
+
+#### Latest news
+* For an overview of the latest UK data policy developments see:
+  * [Bennett Insights: An Overview of UK Data Policy Developments, 2022](https://www.bennett.ox.ac.uk/blog/2022/07/bennett-insights-an-overview-of-uk-data-policy-developments/)
+
+#### Background reading
+* [About UK government open data](https://www.data.gov.uk/about) - provided by the government 
+* [History of open government data in the UK](https://en.wikipedia.org/wiki/Open_data_in_the_United_Kingdom) - Wikipedia summary 
+* [Explainer of the UK government's open data strategy (2019)](https://www.computerworld.com/article/3427838/what-is-the-uk-government-s-open-data-strategy.html) - Computer Weekly summary
+
+#### Academic papers
+* Vancauwenberghe, G., & Fawcett, J. (2018). Open Data in the United Kingdom. In Open Data Exposed (pp. 195-214). TMC Asser Press, The Hague.
+* De Saulles, M. (2013, June). Open data and open government in the UK: how closely are they related?. In Proceedings of the 13th European Conference on e-Government, University of Insubria (pp. 160-165).
+
 
 <a id="databases-header"></a>
 ## Databases
-#### Name of data source
-* Link to source: [https://github.com/nuhaalbadi/Arabic_hatespeech](https://github.com/nuhaalbadi/Arabic_hatespeech)
-* Link to publication: [https://ieeexplore.ieee.org/document/8508247](https://ieeexplore.ieee.org/document/8508247)
-* Datasets available: 
+### Hosted on gov.uk
+#### data.gov.uk 
+* Link to source: [https://www.data.gov.uk/](https://www.data.gov.uk/)
+* Link to publication: 
+* Datasets available:  
 * Public services:  
 * Reference: 
 
-<a id="datasets-header"></a>
-## Datasets
-#### Name of dataset
-* Link to data: [https://github.com/nuhaalbadi/Arabic_hatespeech](https://github.com/nuhaalbadi/Arabic_hatespeech)
+#### Integrated Data Service
+* Link to source: [https://integrateddataservice.gov.uk/](https://integrateddataservice.gov.uk/)
+* Link to publication: 
+* Datasets available: [https://beta.gss-data.org.uk/](https://beta.gss-data.org.uk/)
+* Public services:  
+* Reference: [https://analysisfunction.civilservice.gov.uk/blog/working-together-developing-the-integrated-data-service-ids/](https://analysisfunction.civilservice.gov.uk/blog/working-together-developing-the-integrated-data-service-ids/)
+
+#### National Archives
+* Link to source: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/government-datasets/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/government-datasets/)
+* Link to publication: 
+* Datasets available: [https://beta.gss-data.org.uk/](https://beta.gss-data.org.uk/)
+* Public services:  
+* Reference: [https://webarchive.nationalarchives.gov.uk/ukgwa/20220402205455/https://data.gov.uk/dataset/731b25a8-0462-4a7d-aa3f-5a5d44ae26d2/historical-performance-platform](https://webarchive.nationalarchives.gov.uk/ukgwa/20220402205455/https://data.gov.uk/dataset/731b25a8-0462-4a7d-aa3f-5a5d44ae26d2/historical-performance-platform)
+
+#### Office for National Statistics
+* Link to source: [https://www.ons.gov.uk/  
+](https://www.ons.gov.uk/)
+* Link to publication: 
+* Datasets available:
+* Public services:  
+* Reference: 
+
+#### Justice data
+* Link to source: [https://data.justice.gov.uk/](https://data.justice.gov.uk/)
+* Link to publication: 
+* Datasets available:  
+* Public services:  
+* Reference: 
+
+### Hosted elsewhere
+#### UK Data Service
+* Link to data: [https://ukdataservice.ac.uk/  ](https://ukdataservice.ac.uk/  )
 * Link to publication: [https://ieeexplore.ieee.org/document/8508247](https://ieeexplore.ieee.org/document/8508247)
 * Size of dataset:  
 * Medium: e.g., Text 
 * Reference: ...
+
+<a id="finding-data-header"></a>
+## Finding data on UK government services
+
+### Guides
+* [How to access HM Courts and Tribunals Service (HMCTS) data](https://www.gov.uk/guidance/access-hmcts-data-for-research)
+* [How to access information from a public body through a Freedom of Information Request](https://ico.org.uk/your-data-matters/official-information/)
+
+### Government organisations
+* [Government Analysis Function](https://analysisfunction.civilservice.gov.uk/)  - The Government Analysis Function is a network for all civil servants working in government analysis.
+* [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) - The GDS builds platforms, products and services that help create a simple, joined-up and personalised experience of government for everyone 
+* [Government Data Quality Hub](https://www.gov.uk/government/organisations/government-data-quality-hub) - The Government Data Quality Hub (DQHub) works to develop and share best practice in data quality.
+* [Data Standards Authority](https://www.gov.uk/government/groups/data-standards-authority#:~:text=deliver%20better%20services-,Get%20in%20touch%20with%20us,%2Doffice.gov.uk.) - The Data Standards Authority (DSA) works to improve how the public sector manages data. The DSA does this by establishing standards to make it easier and more effective to share and use data across government.
 
 <a id="contributing-header"></a>
 ## How to Contribute
