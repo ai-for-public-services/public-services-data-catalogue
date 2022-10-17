@@ -1,18 +1,14 @@
-# Hate Speech Dataset Catalogue
-<!-- **We are working on a [ckan instance](http://ckan.hatespeechdata.com) -- please give it a look! Contributions welcome :)** -->
+# UK Government Public Services Dataset Catalogue
 
+This page catalogues datasets on UK public services available under a [Open Government Licence](https://en.wikipedia.org/wiki/Open_Government_Licence). They may be useful for analysing trends in use of central government services, linking data, and training models to detect the use of AI technologies. 
 
-This page catalogues datasets annotated for hate speech, online abuse, and offensive language. They may be useful for e.g. training a natural language processing system to detect this language.
+The list was created by [Vincent Straub](https://www.turing.ac.uk/people/researchers/bertie-vidgen), ..., and maintained by the AI for Public Services team at the Alan Turing Institute.
 
-The list is maintained by [Leon Derczynski](https://www.derczynski.com/), [Bertie Vidgen](https://www.turing.ac.uk/people/researchers/bertie-vidgen), [Hannah Rose Kirk](https://www.hannahrosekirk.com/), Pica Johansson, [Yi-Ling Chung](https://yilingchung.github.io/), Mads Guldborg Kjeldgaard Kongsbak, [Laila Sprejer](https://www.turing.ac.uk/people/researchers/laila-sprejer), and Philine Zeinert.
+It provides background information on accessing UK government open data, a list of [datasets](#Datasets-header), as well as instructions on how to contribute in the[instructions for contributing](#Contributing-header).
 
-We provide a list of [datasets](#Datasets-header) and [keywords](#Keywords-header). If you would like to contribute to our catalogue or add your dataset, please see the [instructions for contributing](#Contributing-header).
+<!--  If you use these resources, please cite (and read!) our paper: [Directions in Abusive Language Training Data: Garbage In, Garbage Out](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243300). And if you would like to find other resources for researching online hate, visit The Alan Turing Institute's [Online Hate Research Hub](https://www.turing.ac.uk/research/research-programmes/public-policy/online-hate-research-hub) or read The Alan Turing Institute's [Reading List on Online Hate and Abuse Research](https://docs.google.com/document/d/1WVkVGp29Jt6d-4fBnZ5OWVYuFn_03rzz-KBqPsu6gTM/edit?usp=sharing). -->
 
-If you use these resources, please cite (and read!) our paper: [Directions in Abusive Language Training Data: Garbage In, Garbage Out](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243300). And if you would like to find other resources for researching online hate, visit The Alan Turing Institute's [Online Hate Research Hub](https://www.turing.ac.uk/research/research-programmes/public-policy/online-hate-research-hub) or read The Alan Turing Institute's [Reading List on Online Hate and Abuse Research](https://docs.google.com/document/d/1WVkVGp29Jt6d-4fBnZ5OWVYuFn_03rzz-KBqPsu6gTM/edit?usp=sharing).
-
-If you're looking for a good paper on online hate training datasets (beyond our paper, of course!) then have a look at ['Resources and benchmark corpora for hate speech detection: a systematic review'](https://link.springer.com/article/10.1007/s10579-020-09502-8) by Poletto et al. in *Language Resources and Evaluation*.
-
-Please send contributions via github pull request. You can do this by visiting the [source code](https://github.com/leondz/hatespeechdata/blob/master/README.md) on github and clicking the edit icon (a pencil, above the text, on the right) - more details [below](#Contributing-header). There's a commented-out markdown template at the top of this file. Accompanying [data statements](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00041) preferred for all corpora.
+Please send contributions via github pull request. You can do this by visiting the [source code] (link to be added) on github and clicking the edit icon (a pencil, above the text, on the right) - more details [below](#Contributing-header). There's a commented-out markdown template at the top of this file. Accompanying [data statements](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00041) preferred for all corpora.
 
 <a id="Arabic-header"></a>
 ### Arabic
