@@ -30,7 +30,7 @@ Please send contributions via github pull request. You can do this by visiting t
 <a id="databases-header"></a>
 ## Databases
 ### Hosted on gov.uk
-#### data.gov.uk 
+#### Government Open Data (data.gov.uk)
 * Link to source: [https://www.data.gov.uk/](https://www.data.gov.uk/)
 * Link to publication: 
 * Datasets available:  
@@ -66,6 +66,13 @@ Please send contributions via github pull request. You can do this by visiting t
 * Public services:  
 * Reference: 
 
+#### Stat-Xplore
+* Link to source: [https://stat-xplore.dwp.gov.uk/webapi/jsf/login.xhtml](https://stat-xplore.dwp.gov.uk/webapi/jsf/login.xhtml)
+* Link to publication: 
+* Datasets available:  
+* Public services:  
+* Reference: 
+
 ### Hosted elsewhere
 #### UK Data Service
 * Link to data: [https://ukdataservice.ac.uk/  ](https://ukdataservice.ac.uk/  )
@@ -80,6 +87,7 @@ Please send contributions via github pull request. You can do this by visiting t
 ### Guides
 * [How to access HM Courts and Tribunals Service (HMCTS) data](https://www.gov.uk/guidance/access-hmcts-data-for-research)
 * [How to access information from a public body through a Freedom of Information Request](https://ico.org.uk/your-data-matters/official-information/)
+* [How to use UK public sector APIs](https://www.api.gov.uk/#uk-public-sector-apis)
 
 ### Government organisations
 * [Government Analysis Function](https://analysisfunction.civilservice.gov.uk/)  - The Government Analysis Function is a network for all civil servants working in government analysis.
