@@ -82,7 +82,7 @@ It provides background information on understanding the UK government [open data
 * Reference: 
 
 <a id="ADR-UK-header"></a>
-#### UK Data Service
+#### ADR UK
 * Link to database: [https://www.adruk.org/ ](https://www.adruk.org/ )
 * Link to publication:
 * Datasets available:  
