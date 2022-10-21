@@ -4,7 +4,7 @@ This page catalogues database sources and datasets that relate to UK public serv
 
 The list is maintained by Vincent Straub, John Francis, Youmna Hasham, Saba Esnaashari, and Jonathan Bright, as part of the AI for Public Services team at the Alan Turing Institute.
 
-It provides background information on understanding the UK government [open data ecosystem](#background-reading-header), a list of [databases](#databases-header), a list of [datasets](#datasets-header), resources for [finding data](#finding-data-header), as well as instructions on how to contribute in the [adding link](#adding-links-header) section.
+It provides background information on understanding the UK government [open data ecosystem](#background-reading-header), a list of [databases](#databases-header), a list of [datasets](#datasets-header), resources for [finding data](#finding-data-header), as well as instructions on how to contribute in the [adding links](#adding-links-header) section.
 
 <!--   If you use these resources, please cite (and read!) our paper: [Directions in Abusive Language Training Data: Garbage In, Garbage Out](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243300). And if you would like to find other resources for researching online hate, visit The Alan Turing Institute's [Online Hate Research Hub](https://www.turing.ac.uk/research/research-programmes/public-policy/online-hate-research-hub) or read The Alan Turing Institute's [Reading List on Online Hate and Abuse Research](https://docs.google.com/document/d/1WVkVGp29Jt6d-4fBnZ5OWVYuFn_03rzz-KBqPsu6gTM/edit?usp=sharing). -->
 
@@ -128,7 +128,7 @@ The following organisations provide newsletters and further information on open 
 
 
 <a id="adding-links-header"></a>
-## How to add data sources to this document
+## How to add links to databases and datasets to this document
 
 * If adding a database, edit this markdown file and add your item by copy and pasting the following template and adding all the details: 
 
