@@ -20,6 +20,7 @@ It provides background information on understanding the UK government [open data
 * [Justice Data](#Justice-Data-header)
 * [Stat Xplore](#Stat-Xplore-header)
 * [UK Data Service](#UK-Data-Service-header)
+* [ADR UK](#ADR-UK-header)
 
 ## List of Databases
 
@@ -79,6 +80,15 @@ It provides background information on understanding the UK government [open data
 * Datasets available:  
 * Public service domains: 
 * Reference: 
+
+<a id="ADR-UK-header"></a>
+#### UK Data Service
+* Link to database: [https://www.adruk.org/ ](https://www.adruk.org/ )
+* Link to publication:
+* Datasets available:  
+* Public service domains: 
+* Reference: 
+
 
 <a id="datasets-header"></a>
 ## Datasets Table of Contents
