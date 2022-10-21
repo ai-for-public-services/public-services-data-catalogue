@@ -86,7 +86,7 @@ It provides background information on understanding the UK government [open data
 <a id="ADR-UK-header"></a>
 #### Administrative Data UK
 * Link to database: [https://www.adruk.org/ ](https://www.adruk.org/ )
-* Link to publication:
+* Link to publications: [https://www.adruk.org/news-publications/publications-reports/](https://www.adruk.org/news-publications/publications-reports/)
 * Datasets available:  
 * Public service domains: 
 * Reference: 
