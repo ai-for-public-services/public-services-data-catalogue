@@ -22,7 +22,7 @@ It provides background information on understanding the UK government [open data
 * [UK Data Service](#UK-Data-Service-header)
 * [ADR UK](#ADR-UK-header)
 * [London Datastore](#London-Datastore-header)
-* [CHAIN](#CHAIN-header)
+* [Homeless England](#Homeless-England-header)
 
 ## List of Databases
 
@@ -99,9 +99,9 @@ It provides background information on understanding the UK government [open data
 * Public service domains: 
 * Reference:
 
-<a id="CHAIN-header"></a>
-#### CHAIN (Combined Homelessness and Information Network)
-* Link to database: [https://homeless.org.uk/what-we-do/streetlink-and-chain/chain/ ](https://homeless.org.uk/what-we-do/streetlink-and-chain/chain/ )
+<a id="Homeless-England-header"></a>
+#### Homeless England
+* Link to database: [https://homeless.org.uk/homeless-england/ ](https://homeless.org.uk/homeless-england/ )
 * Link to publication:
 * Datasets available:  
 * Public service domains: 
