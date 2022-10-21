@@ -21,6 +21,7 @@ It provides background information on understanding the UK government [open data
 * [Stat Xplore](#Stat-Xplore-header)
 * [UK Data Service](#UK-Data-Service-header)
 * [ADR UK](#ADR-UK-header)
+* [London Datastore](#London-Datastore-header)
 
 ## List of Databases
 
@@ -88,6 +89,14 @@ It provides background information on understanding the UK government [open data
 * Datasets available:  
 * Public service domains: 
 * Reference: 
+
+<a id="London-Datastore-header"></a>
+#### London Datastore
+* Link to database: [https://data.london.gov.uk/ ](https://data.london.gov.uk/ )
+* Link to publication:
+* Datasets available:  
+* Public service domains: 
+* Reference:
 
 
 <a id="datasets-header"></a>
