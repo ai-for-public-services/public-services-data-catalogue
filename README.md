@@ -20,7 +20,7 @@ It provides background information on understanding the UK government [open data
 * [Justice Data](#Justice-Data-header)
 * [Stat Xplore](#Stat-Xplore-header)
 * [UK Data Service](#UK-Data-Service-header)
-* [ADR UK](#ADR-UK-header)
+* [Adminstrator Data UK](#ADR-UK-header)
 * [London Datastore](#London-Datastore-header)
 * [Homeless England](#Homeless-England-header)
 
@@ -84,7 +84,7 @@ It provides background information on understanding the UK government [open data
 * Reference: 
 
 <a id="ADR-UK-header"></a>
-#### ADR UK
+#### Adminstrator Data UK
 * Link to database: [https://www.adruk.org/ ](https://www.adruk.org/ )
 * Link to publication:
 * Datasets available:  
