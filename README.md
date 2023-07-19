@@ -1,8 +1,8 @@
 # UK Government Public Services Data Catalogue
 
-This page catalogues database sources and datasets that relate to UK public services collected by non-governmental research institutions and central government available under a [Open Government Licence](https://en.wikipedia.org/wiki/Open_Government_Licence). They may be useful for analysing trends in the use of central government services and conducting analyses to assess the use and potential of automated decision-making and AI applications in service delivery. 
+This page catalogues database sources and datasets (accessible in the `/datasets` directory) that relate to UK public services collected by non-governmental research institutions and central government available under a [Open Government Licence](https://en.wikipedia.org/wiki/Open_Government_Licence). They may be useful for analysing trends in the use of central government services and conducting analyses to assess the use and potential of automated decision-making and AI applications in service delivery. 
 
-The list is maintained by Vincent Straub, John Francis, Youmna Hashem, Deborah Morgan, Saba Esnaashari, and Jonathan Bright, as part of the AI for Public Services team at the Alan Turing Institute.
+This repository is maintained by Vincent Straub, John Francis, Youmna Hashem, Deborah Morgan, Saba Esnaashari, and Jonathan Bright, as part of the AI for Public Services team at the Alan Turing Institute.
 
 It provides background information on understanding the UK government [open data ecosystem](#background-reading-header), a list of [databases](#databases-header), a list of [datasets](#datasets-header), resources for [finding data](#finding-data-header), as well as instructions on how to contribute in the [adding links](#adding-links-header) section.
 
@@ -10,8 +10,16 @@ It provides background information on understanding the UK government [open data
 
 <!--  Please send contributions via github pull request. You can do this by visiting the [source code] (link to be added) on github and clicking the edit icon (a pencil, above the text, on the right) - more details [below](#Contributing-header). There's a commented-out markdown template at the top of this file. Accompanying [data statements](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00041) preferred for all corpora. -->
 
+# Table of Contents
+* [List of databases](#databases-header)
+* [List of datasets](#datasets-header)
+* [Understanding the UK government open data ecosystem](#background-reading-header)
+* [Finding additional data sources](#finding-data-header)
+* [Adding links to this page](#adding-links-header)
+
+
 <a id="databases-header"></a>
-## Databases Table of Contents
+## List of Databases
 
 * [data.gov.uk](#data.gov.uk-header)
 * [Integrated Data Service](#Integrated-Data-Service-header)
@@ -24,7 +32,7 @@ It provides background information on understanding the UK government [open data
 * [London Datastore](#London-Datastore-header)
 * [Homeless England](#Homeless-England-header)
 
-## List of Databases
+### Databases
 
 <a id="data.gov.uk-header"></a>
 #### Government Open Data (data.gov.uk)
@@ -117,18 +125,28 @@ It provides background information on understanding the UK government [open data
 
 
 <a id="datasets-header"></a>
-## Datasets Table of Contents
+## Datasets Overview
+
+* [List of registered GOVUK domains](#registered-domains-header)
 
 
-## List of Datasets
+### Datasets
 
+<a id="registered-domains-header"></a>
+#### List of registered GOVUK domains 
+* Filename: `201210-202303-govuk-domain-names.csv`
+* Time period: 10/2012-03/2023
+* Number of cases/rows: 26,783
+* Number of variables/columns: 4
+* Date of data collection: 04/2023
+
+<a id="header"></a>
 #### Title
-* Link to data: [url](url) - direct download is preferred, e.g. a link straight to a .zip file
-* Link to publication: [url](url) - link to the documentation and/or a data statement about the data
-* Size of dataset: state the number of instances of public services covered
-* Public service domain:  state which domain the dataset provides data on (e.g. education, justice, social welfare, healthcare)
-* Medium: text / numeric 
-* Reference: Give a bibliographic reference for the data (if there is one), with title, author, year, venue etc
+* Filename: 
+* Time period:  
+* Number of cases/rows:
+* Number of variables/columns:
+* Date of data collection:  
 
 <a id="background-reading-header"></a>
 ## Understanding the UK government open data ecosystem
@@ -145,7 +163,6 @@ It provides background information on understanding the UK government [open data
 #### Academic papers
 * Vancauwenberghe, G., & Fawcett, J. (2018). Open Data in the United Kingdom. In Open Data Exposed (pp. 195-214). TMC Asser Press, The Hague.
 * De Saulles, M. (2013, June). Open data and open government in the UK: how closely are they related?. In Proceedings of the 13th European Conference on e-Government, University of Insubria (pp. 160-165).
-
 
 <a id="finding-data-header"></a>
 ## Finding data on UK government services
