@@ -2,7 +2,7 @@
 
 This page catalogues database sources and datasets (accessible in the `/datasets` directory of the [GitHub repository](https://github.com/ai-for-public-services/public-services-data-catalogue) that hosts the page) which relate to UK public services collected by non-governmental research institutions and central government available under a [Open Government Licence](https://en.wikipedia.org/wiki/Open_Government_Licence). They may be useful for analysing trends in the use of central government services and conducting analyses to assess the use and potential of automated decision-making and AI applications in service delivery. 
 
-This page is maintained by Vincent Straub, John Francis, Youmna Hashem, Deborah Morgan, Saba Esnaashari, and Jonathan Bright, as part of the AI for Public Services team at the Alan Turing Institute.
+This page is maintained by Vincent Straub, John Francis, Youmna Hashem, Deborah Morgan, Saba Esnaashari, and Jonathan Bright, as part of the [AI for Public Services team](https://www.turing.ac.uk/research/research-programmes/public-policy/public-policy-themes/ai-public-services) at the [Alan Turing Institute](https://www.turing.ac.uk/).
 
 It provides background information on understanding the UK government [open data ecosystem](#background-reading-header), a list of [databases](#databases-header), a list of [datasets](#datasets-header), resources for [finding data](#finding-data-header), as well as instructions on how to contribute in the [adding links](#adding-links-header) section.
 
